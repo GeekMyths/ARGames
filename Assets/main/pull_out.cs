@@ -16,7 +16,7 @@ public class pull_out : MonoBehaviour {
 		click = false;
 		res = Screen.resolutions;
 		game = GameObject.Find ("friend");
-		distance = res [0].width / 32;
+		distance = res [0].width / 25;
 	}
 	
 	// Update is called once per frame
