@@ -73,6 +73,12 @@
  <Reference Include="UnityEditor.TreeEditor">
  <HintPath>D:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
+<<<<<<< HEAD
+=======
+ <Reference Include="LitJson">
+ <HintPath>D:/Users/Maple/Documents/OurGame/Assets/LitJson.dll</HintPath>
+ </Reference>
+>>>>>>> remotes/origin/zgw
  <Reference Include="EasyAR.Unity">
  <HintPath>D:/Users/Maple/Documents/OurGame/Assets/EasyAR/Scripts/EasyAR.Unity.dll</HintPath>
  </Reference>
