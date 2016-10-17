@@ -1,8 +1,0 @@
-sceneSetups:
-<<<<<<< HEAD
-- path: Assets/HelloAR/Scenes/HelloAR.unity
-=======
-- path: Assets/Login&regit/Scene/Regit.unity
->>>>>>> remotes/origin/zgw
-  isLoaded: 1
-  isActive: 1
